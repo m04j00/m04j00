@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=300&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=300&section=header&text=LEE%20MINJI&fontSize=90&fontColor=2fda77" />
 
 <!-- ### Hi there 👋 -->
 
