@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m04j00&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m04j00&theme=vue)  
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm04j00%2Fhit-counter&count_bg=%238AE994&title_bg=%23D0D0D0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   </div>
